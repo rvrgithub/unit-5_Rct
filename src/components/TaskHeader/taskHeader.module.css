@@ -1,0 +1,18 @@
+.taskHeader {
+  /* Sample */
+  width: 400px;
+  height: 150px;
+  border: 1px solid rgb(75, 75, 75);
+  margin: auto;
+  border-radius: 10px;
+  text-align: center;
+  background-color: #41a3a9;
+  /* background-image: ; */
+}
+
+.taskHeader div{
+  text-align: center;
+  margin-left: 80px;
+  display: flex;
+  font-size: 20px;
+}
